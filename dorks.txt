@@ -1,0 +1,93 @@
+inurl:group_concat username 0x3a PASSWORD from robot
+inurl:group_concat username 0x3a PASSWORD from pirates
+inurl:group_concat username 0x3a PASSWORD from obama
+inurl:group_concat username 0x3a PASSWORD from shadow
+inurl:group_concat username 0x3a PASSWORD from khan
+inurl:group_concat username 0x3a PASSWORD from paul
+inurl:group_concat username 0x3a PASSWORD from pakistan
+inurl:group_concat username 0x3a PASSWORD from hacker
+inurl:group_concat username 0x3a PASSWORD from users
+
+        buy.php?bookid=
+        bycategory.php?id=
+        cardinfo.php?card=
+        cart.php?action=
+        cart.php?cart_id=
+        cart.php?id=
+        cart_additem.php?id=
+        cart_validate.php?id=
+        cartadd.php?id=
+        cat.php?iCat=
+        catalog.php
+        catalog.php?CatalogID=
+        catalog_item.php?ID=
+        catalog_main.php?catid=
+        category.php
+        category.php?catid=
+        category_list.php?id=
+        categorydisplay.php?catid=
+        checkout.php?cartid=
+        checkout.php?UserID=
+        checkout_confirmed.php?order_id=
+        checkout1.php?cartid=
+        comersus_listCategoriesAndProducts.php?idCategory=
+        comersus_optEmailToFriendForm.php?idProduct=
+        comersus_optReviewReadExec.php?idProduct=
+        comersus_viewItem.php?idProduct=
+        comments_form.php?ID=
+        contact.php?cartId=
+        content.php?id=
+        customerService.php?****ID1=
+        default.php?catID=
+        description.php?bookid=
+inurl:group_concat username 0x3a PASSWORD from adm
+inurl:group_concat username 0x3a PASSWORD from admin
+inurl:group_concat username 0x3a PASSWORD from user
+inurl:concat username 0x3a password from sysibm.sysdummy1
+inurl:concat username 0x3a password from israel
+inurl:concat username 0x3a password from mr.bean
+inurl:concat username 0x3a password from sysuser
+inurl:concat username 0x3a password from sysadmin
+inurl:/MyBB/Upload/inc/
+inurl:db_mysql.php
+inurl:sql.php?table=wp_users
+inurl:sql.php?table=group
+inurl:sql.php?table=phpMyAdmin
+inurl:sql.php?table=users
+inurl:sql.php?table=login
+inurl:/phpMyAdmin/sql.php
+inurl:sql.php?table=customer
+inurl:sql.php?table=member
+inurl:sql.php?table=account
+inurl:sql.php?table=admin
+inurl:sql.php?table=tblwhoislog
+inurl:/usr/local/apache/htdocs
+inurl:sql.php?table=jos_users
+inurl:sql.php?table=mybb_users
+inurl:sql.php?table=log
+inurl:sql.php?table=pass
+inurl:sql.php?table=information_schema
+inurl:sql.php?table=proxies_priv
+inurl:sql.php?table=mysql.user
+inurl:sql.php?table=collection
+inurl:sql.php?table=loginlog
+inurl:sql.php?table=menu
+inurl:sql.php?table=setting
+inurl:sql.php?table=phpbb_users
+inurl:/phpmyadmin/sql.php?db=mysql&sql_query=
+inurl:union+select+filetype:asp
+inurl:union+select+filetype:php
+inurl:union+select+filetype:cfm
+inurl:union 4.1.22-standard-log
+inurl:union 5.0.67-log
+inurl:union» 4.1.22-log
+inurl:union 5.0.32
+inurl:union» 5.0.67
+inurl:union» 5.0.51a-3ubuntu5
+inurl:union» 5.1.63-cll
+inurl:bootstrap.php
+inurl:concat username 0x3a password from sysibm.sysdummy1
+inurl:concat username 0x3a password from israel
+inurl:concat username 0x3a password from mr.bean
+inurl:concat username 0x3a password from sysuser
+inurl:concat username 0x3a password from sysadmin
